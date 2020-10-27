@@ -1,0 +1,2 @@
+Jako priklad jsou zde cislice 123456, pismena a i jine znaky, jako jsou
+konce radku, 3 carky a tecky, vykricniku je zde 0.
