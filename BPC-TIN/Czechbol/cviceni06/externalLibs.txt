@@ -1,0 +1,4 @@
+junit.jar
+junit-addons-1.4.jar
+
+Deleted because .jar does not belong to git
