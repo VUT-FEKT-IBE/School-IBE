@@ -147,3 +147,13 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+
+
+# pictures
+*.jpg
+*.png
+*.gif
+
+# java uml
+*.uml
+*.umlcd
