@@ -22,7 +22,7 @@ Now include only three subjects but when I'll have freetime I add more. Feel fre
 
 ## [BPC2T - Počítače a programování 2](https://github.com/jedla97/School-IBE/tree/main/BPC2T)
 
-In BPC2T is needed to change package to your own in every file. In [cviceni 3](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni3) are 2 subdirectories one includes own custom exceptions and second includes some code which I´m not sure how exactly working or which purpose was used. [Cvičení databáze](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceniDatabaze) it was added last year (2019/20) and it was a template where was a task to add a prepared statement to communicate with the database.
+In BPC2T is needed to change package to your own in every file. In [cviceni 3](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni3) are 2 subdirectories one includes own custom exceptions and second includes some code which I´m not sure how exactly working or which purpose was used. [Cvičení databáze](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceniDatabaze) was added last year (2019/20) and it was a template where was a task to add a prepared statement to communicate with the database.
 
 | Cvičení          | [jedla](https://github.com/jedla97/School-IBE/tree/main/BPC1T) | 
 | :--------------: | :------------------------------------------------------------: |
