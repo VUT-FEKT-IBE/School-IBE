@@ -27,27 +27,21 @@ In BPC2T is needed to change package to your own in every file. In [cviceni 3](h
   * [cvičení databáze](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceniDatabaze)
  
  BPC-TIN include two sets of code one is from [@Czechbol](https://github.com/Czechbol) in [Czechbol directory](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol) and second one is [@jedla97](https://github.com/jedla97) in [Jedla directory](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec). In [directory cvičení 9](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko9) are 2 algorithms but mandatory was only Dijkstra algorithm and I have done A* only for fun but for the type of graf which was use is bad. 
- * [BPC-TIN - Teoretická informatika](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN)
-   * [Czechbol](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol)
-     * [cvičení 1](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni01/src/cz/vutbr/feec/utko/tin/cv1)
-     * [cvičení 2](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni02/src/cz/vutbr/feec/utko/tin/cv02)
-     * [cvičení 3](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni03/src)
-     * [cvičení 4](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni04/src/Linearni/seznam)
-     * [cvičení 5](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni05/src/BinaryTree)
-     * [cvičení 6](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni06)
-     * [cvičení 9](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni09/src/cz/vutbr/feec)
-     * [cvičení 10](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni10)
-     * [cvičení 11](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni11)     
-   * [Jedla](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec)
-     * [cvičení 1](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko1)
-     * [cvičení 2](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko2)
-     * [cvičení 3](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko3)
-     * [cvičení 4](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko4)
-     * [cvičení 5](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko5)
-     * [cvičení 7](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko7)
-     * [cvičení 9](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko9)
-     * [cvičení 10](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko10)
-     * [cvičení 11](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko11)
-     * [zápočet](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/zapocet)
+ 
+ [BPC-TIN - Teoretická informatika](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN)
+
+| Cvičení     | [Czechbol](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol)| [jedla](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec) |
+| ----------- | :-------------: | ----- |
+| Cvičení 1   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni01/src/cz/vutbr/feec/utko/tin/cv1) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko1) |
+| Cvičení 2   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni02/src/cz/vutbr/feec/utko/tin/cv02) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko2) |
+| Cvičení 3   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni03/src) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko3) |
+| Cvičení 4   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni04/src/Linearni/seznam) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko4) |
+| Cvičení 5   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni05/src/BinaryTree) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko5) |
+| Cvičení 6   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni06) | - |
+| Cvičení 7   | - | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko7) |
+| Cvičení 9   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni09/src/cz/vutbr/feec) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko9) |
+| Cvičení 10  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni10) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko10) |
+| Cvičení 11  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni11) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko11) |
+| zápočet     | - | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/zapocet) |
  
   
