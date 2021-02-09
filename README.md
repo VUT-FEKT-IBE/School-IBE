@@ -2,6 +2,10 @@
 
 This repository include programing exercises from various subjects.
 
+[BPC1T - Počítače a programování 1](#bpc1t---počítače-a-programování-1)\
+[BPC2T - Počítače a programování 2](#bpc2t---počítače-a-programování-2)\
+[BPC-TIN - Teoretická informatika](#bpc-tin---teoretická-informatika)
+
 Now include only three subjects but when I'll have freetime I add more. Feel free to add your code as well. When submiting code keep it simple and use structure as [here](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN).
 
 ## [BPC1T - Počítače a programování 1](https://github.com/jedla97/School-IBE/tree/main/BPC1T)
@@ -16,7 +20,7 @@ Now include only three subjects but when I'll have freetime I add more. Feel fre
 | Cvičení 11  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/cviceni11) |
 
 
-## [BPC2T - Počítače a programování 1](https://github.com/jedla97/School-IBE/tree/main/BPC2T)
+## [BPC2T - Počítače a programování 2](https://github.com/jedla97/School-IBE/tree/main/BPC2T)
 
 In BPC2T is needed to change package to your own in every file. In [cviceni 3](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni3) are 2 subdirectories one includes own custom exceptions and second includes some code which I´m not sure how exactly working or which purpose was used. [Cvičení databáze](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceniDatabaze) it was added last year (2019/20) and it was a template where was a task to add a prepared statement to communicate with the database.
 
