@@ -157,3 +157,6 @@ buildNumber.properties
 # java uml
 *.uml
 *.umlcd
+
+#java bin dir
+BPC-TIN/bin
