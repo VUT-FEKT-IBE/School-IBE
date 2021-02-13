@@ -17,12 +17,12 @@ BPC-PC1T include two sets of code one is from [@Oswinska](https://github.com/Osw
 | Cvičení 3   | -																	   		 | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV03) |
 | Cvičení 4   | -																	   		 | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV04) |
 | Cvičení 5	  | -																	 		 | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV05) |
-| Cvičení 6   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/jedla/cviceni06) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV06) |
-| Cvičení 7   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/jedla/cviceni07) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV07) |
-| Cvičení 8   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/jedla/cviceni08) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV08) |
-| Cvičení 9   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/jedla/cviceni09) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV09) |
-| Cvičení 10  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/jedla/cviceni10) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV10) |
-| Cvičení 11  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/jedla/cviceni11) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV11) |
+| Cvičení 6   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/jedla/cviceni06) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV06) |
+| Cvičení 7   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/jedla/cviceni07) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV07) |
+| Cvičení 8   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/jedla/cviceni08) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV08) |
+| Cvičení 9   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/jedla/cviceni09) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV09) |
+| Cvičení 10  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/jedla/cviceni10) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV10) |
+| Cvičení 11  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/jedla/cviceni11) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV11) |
 
 
 ## [BPC-PC2T - Počítače a programování 2](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec)
