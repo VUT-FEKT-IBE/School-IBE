@@ -31,17 +31,17 @@ In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3]
 
 | Cvičení          | [jedla](https://github.com/jedla97/School-IBE/tree/main/BPC1T) | 
 | :--------------: | :------------------------------------------------------------: |
-| Cvičení 2        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni2) |
-| Cvičení 3        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni3) |
-|				   | [vlastní vyjímky](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni3/CustomExceptions) |
-|				   | [nějaká kryptoregistrace](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni3/SomeCodeCryptoRegistration) |
-| Cvičení 4        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni4) |
-| Cvičení 6        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni6) |
-| Cvičení 7        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni7) |
-| Cvičení 8        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni8) |
-| Cvičení 10       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni10) |
-| Cvičení 11       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni11) |
-| Cvičení databáze | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceniDatabaze) |
+| Cvičení 2        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni2) |
+| Cvičení 3        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni3) |
+|				   | [vlastní vyjímky](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni3/CustomExceptions) |
+|				   | [nějaká kryptoregistrace](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni3/SomeCodeCryptoRegistration) |
+| Cvičení 4        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni4) |
+| Cvičení 6        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni6) |
+| Cvičení 7        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni7) |
+| Cvičení 8        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni8) |
+| Cvičení 10       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni10) |
+| Cvičení 11       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni11) |
+| Cvičení databáze | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceniDatabaze) |
  
 
 ## [BPC-TIN - Teoretická informatika](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN)
