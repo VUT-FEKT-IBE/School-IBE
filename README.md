@@ -25,9 +25,9 @@ BPC-PC1T include two sets of code one is from [@Oswinska](https://github.com/Osw
 | Cvičení 11  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC1T/jedla/cviceni11) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC1T/Oswinska/CV11) |
 
 
-## [BPC-PC2T - Počítače a programování 2](https://github.com/jedla97/School-IBE/tree/main/BPC2T)
+## [BPC-PC2T - Počítače a programování 2](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec)
 
-In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceni3) are 2 subdirectories one includes own custom exceptions and second includes some code which I´m not sure how exactly working or which purpose was used. [Cvičení databáze](https://github.com/jedla97/School-IBE/tree/main/BPC2T/cviceniDatabaze) was added last year (2019/20) and it was a template where was a task to add a prepared statement to communicate with the database. This not include database itself.
+In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni3) are 2 subdirectories one includes own custom exceptions and second includes some code which I´m not sure how exactly working or which purpose was used. [Cvičení databáze](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceniDatabaze) was added last year (2019/20) and it was a template where was a task to add a prepared statement to communicate with the database. This not include database itself.
 
 | Cvičení          | [jedla](https://github.com/jedla97/School-IBE/tree/main/BPC1T) | 
 | :--------------: | :------------------------------------------------------------: |
