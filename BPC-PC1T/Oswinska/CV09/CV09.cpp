@@ -1,6 +1,5 @@
 #include <iostream>
 #include "ComplexMath.h"
-// Property of Oswin™ 
 
 int main()
 {

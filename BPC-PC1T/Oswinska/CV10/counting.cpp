@@ -1,7 +1,6 @@
 #include <iostream>
 #include<ctype.h>
 #include "Header.h"
-// Property of Oswin™ 
 
 int pismena(char* ptr)
 {

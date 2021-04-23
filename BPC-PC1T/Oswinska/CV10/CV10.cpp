@@ -1,6 +1,5 @@
 #include <iostream>
 #include "Header.h"
-// Property of Oswin™ 
 
 int main()
 {

@@ -1,5 +1,4 @@
 #pragma once
-// Property of Oswin™ 
 
 enum typOperace { soucet = 1, rozdil, soucin };
 enum formatZobrazeni { algebraicky, geometricky };

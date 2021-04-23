@@ -1,6 +1,5 @@
 #include <iostream>
 #include "Header.h"
-// Property of Oswin™ 
 
 void add(char* Interpret, char* Album, int rok, struct t_Hudba** uk_prvni) 
 {

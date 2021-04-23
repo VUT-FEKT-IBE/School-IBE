@@ -1,7 +1,6 @@
 #include <iostream>
 #include "ComplexMath.h"
 #define M_PI 3.14159265358979323846
-// Property of Oswin™ 
 
 struct complex operace(struct complex a, struct complex b, enum typOperace typ)
 {

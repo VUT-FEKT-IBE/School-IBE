@@ -3,7 +3,6 @@
 #include <math.h>
 #include "Body2d.h"
 #define POCET_BODU 10
-// Property of Oswin™ 
 
 int indexNejblizsi(int velikost, int(*poleBodu)[2], int referencniX, int referencniY) // Nejblizsi bod
 {

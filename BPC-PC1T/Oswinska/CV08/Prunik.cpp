@@ -1,6 +1,5 @@
 #include <iostream>
 #include "xplagiat00.h"
-// Property of Oswin™ 
 
 int prunik(double zacatek1, double konec1, double zacatek2, double konec2, double* vysl_zacatek, double* vysl_konec)
 {
