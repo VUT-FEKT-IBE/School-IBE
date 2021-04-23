@@ -1,7 +1,6 @@
 #pragma once
 
 #define SIZE 21
-// Property of Oswin™ 
 
 struct t_Hudba
 {

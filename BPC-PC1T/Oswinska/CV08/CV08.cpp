@@ -1,6 +1,5 @@
 #include <iostream>
 #include "xplagiat00.h"
-// Property of Oswin™ 
 
 int main()
 {

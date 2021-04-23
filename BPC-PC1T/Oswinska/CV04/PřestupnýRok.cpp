@@ -1,6 +1,6 @@
 ﻿#include <iostream>
-// Property of Oswin™ 
-// Takhle vypadá nepřehledný kód děti, don't do it like this 
+// This is how trashy code looks like kids, don't do it like this
+
 int main()
 {
 	int JePrestupny(int rok);

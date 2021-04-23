@@ -1,6 +1,4 @@
 ﻿#include <iostream>
-// Property of Oswin™ 
-// tisk je hlavní ukol, tisk2 je bonus
 
 double a[2], b[2], c[2];
 char operand;

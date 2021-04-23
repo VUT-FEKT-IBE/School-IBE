@@ -1,5 +1,4 @@
 #include <iostream>
-// Property of Oswin™ 
 
 int main()
 {
