@@ -31,20 +31,20 @@ In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3]
 
 | Cvičení          | [jedla](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla) | [Oswinska](https://github.com/jedla97/School-IBE/tree/main/) |
 | :--------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-| Cvičení 1        | -                                                                               | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika1) |
-| Cvičení 2        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni2) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika2) |
-| Cvičení 3        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni3) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika3) |
+| Cvičení 1        | -                                                                               | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika01/src) |
+| Cvičení 2        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni2) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika02/src/Cvika2) |
+| Cvičení 3        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni3) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika03/src/cvika03) |
 |				   | [vlastní vyjímky](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni3/CustomExceptions) | -                                                   |
 |				   | [nějaká kryptoregistrace](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni3/SomeCodeCryptoRegistration) | -                                 |
-| Cvičení 4        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni4) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika4) |
-| Cvičení 5        | -                                                                              | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika5) |
-| Cvičení 6        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni6) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika6) |
-| Cvičení 7        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni7) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika7) |
+| Cvičení 4        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni4) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika04/src/Cvika04) |
+| Cvičení 5        | -                                                                              | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika05/src/cvika05) |
+| Cvičení 6        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni6) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika06/src/Cvika06) |
+| Cvičení 7        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni7) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika07/src/Cvika07) |
 | Cvičení 8        | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni8) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika8) |
-| Cvičení 9        | -                                                                              | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika9) |
-| Cvičení 10       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni10) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika10) |
-| Cvičení 11       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni11) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika11) |
-| Cvičení databáze | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceniDatabaze) | -                                                                          |
+| Cvičení 9        | -                                                                              | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika09/src/Cvika09) |
+| Cvičení 10       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni10) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika10/src) |
+| Cvičení 11       | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni11) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika11/src/Cvika11) |
+| Cvičení databáze | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-PC2T/Jedla/cviceniDatabaze) |                                                                           |
  
 
 ## [BPC-TIN - Teoretická informatika](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN)
