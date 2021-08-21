@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="cs" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" th:src="@{/js/dash.all.debug.js}"></script>
+    <link rel="stylesheet" th:href="@{/css/style.css}" type="text/css">
+</head>
+<body>
+<div id="empty-form" th:if="${#strings.isEmpty(vid)}">
+    <p id="empty-form-text">Nebyla zadána žádná adresa!</p>
+</div>
+<div id="video-box" th:if="${!#strings.isEmpty(vid)}">
+    <video id="video-element" data-dashjs-player autoplay="true" th:src="${vid}" controls>
+    </video>
+</div>
+</body>
+</html>
