@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="cs" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" th:src="@{/js/dash.all.debug.js}"></script>
+
+</head>
+<body>
+
+<video width="1000" height="400" controls>
+    <source src="byterange" type="video/mp4">
+</video>
+
+
+<div>
+    <video data-dashjs-player autoplay="false" src="https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd"  width="1000" height="400" controls>
+    </video>
+</div>
+
+</body>
+</html>
+

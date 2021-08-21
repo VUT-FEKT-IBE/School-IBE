@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="cs" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Galerie dostupných filmů</title>
+</head>
+<body>
+<table class="table">
+    <thead class = "thead-light">
+    <tr>
+        <th class="text-left">Video</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="videoItem : ${videoName}">
+        <td><a th:href="@{'player/'+${videoItem.file_name}}"><p th:utext="${videoItem.file_name}"></p></a></td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>

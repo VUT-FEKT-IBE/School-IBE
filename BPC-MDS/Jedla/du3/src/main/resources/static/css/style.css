@@ -1,0 +1,9 @@
+video {
+    width: 100%;
+}
+
+.dash-video-player {
+    position: relative;  /* This position relative is needed to position the menus */
+    width: 640px;
+    margin: 0 auto;
+}

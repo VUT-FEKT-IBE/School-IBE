@@ -1,0 +1,60 @@
+body{
+    background: #121212;
+}
+#empty-form{
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    background: black;
+}
+#empty-form-text{
+    font-size: 500%;
+    color: red;
+}
+#video-element{
+    height: 70%;
+    width: 70%;
+    background: black;
+}
+#video-box{
+    margin: 10%;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#form-submit{
+    text-align: center;
+    max-width: 100%;
+    overflow: hidden;
+    margin: auto;
+    padding: 0 10px;
+    text-align: center;
+}
+
+#form-all{
+    text-align: center;
+    max-width: 60%;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+.url-content{
+    width: 45%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    outline: none;
+    padding: 20px 40px;
+    background: #989898;
+    color: white;
+    font-size: 200%;
+}
+
+#submit-button{
+    float: right;
+    border: 0;
+    padding: 12px 50px;
+    border-radius: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="cs" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" th:href="@{/css/Alice.css}" th:if="${#httpServletRequest.requestURI.contains('alice')}" type="text/css">
+    <link rel="stylesheet" th:href="@{/css/Bob.css}" th:if="${#httpServletRequest.requestURI.contains('bob')}" type="text/css">
+</head>
+<body>
+    <h1 th:utext="${name}"></h1>
+</body>
+</html>
