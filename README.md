@@ -4,7 +4,8 @@ This repository include programing exercises from various subjects.
 
 [BPC-PC1T - Počítače a programování 1](#bpc-pc1t---počítače-a-programování-1)\
 [BPC-PC2T - Počítače a programování 2](#bpc-pc2t---počítače-a-programování-2)\
-[BPC-TIN - Teoretická informatika](#bpc-tin---teoretická-informatika)
+[BPC-TIN - Teoretická informatika](#bpc-tin---teoretická-informatika)\
+[BPC-MDS - Multimediální služby](#BPC-MDS---Multimediální-služby)
 
 Now include only three subjects but when I'll have freetime I add more. Feel free to add your code as well. When submiting code keep it simple and use structure as [here](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN).
 
@@ -65,4 +66,20 @@ In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3]
 | Cvičení 11  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Czechbol/cviceni11) | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko11) |
 | zápočet     | - | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/zapocet) |
  
-  
+
+## [BPC-MDS - Multimediální služby](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS)
+
+BPC-MDS obsahuje cvičení pro multimediální služby ve Spring framworku. Doporučené IDE je IntelliJ IDEA. Cvičení obsahují ukázky ze cvičení, které jsou rozvinuty v domácích úkolech (2020 distanční výuka). Připojit se na webovou službu lze pomocí `localhost:8080/<namespace>` nebo `127.0.0.1:8080/<namespace>`, kde `namespace` je definován ve třídě `WebController.java`. Případě port se může lišit pokud je přenastaven. 
+
+| Cvičení     | [jedla](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla)       | 
+| :---------: | :--------------------------------------------------------------------------: |
+| Cvičení 1   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/cviko01) |
+| Cvičení 2A  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/cviko02A)|
+| Cvičení 2B  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/cviko02B)|
+| Cvičení 3	  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/cviko03) |
+| Cvičení 4   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/cviko04) |
+| DÚ 1		  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/du1) 	 |
+| DÚ 2		  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/du2) 	 |
+| DÚ 3		  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/du3) 	 |
+| DÚ 4		  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/du4) 	 |
+| Zápočet	  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/projekt) |
