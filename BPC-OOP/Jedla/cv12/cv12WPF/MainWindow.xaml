@@ -1,0 +1,42 @@
+﻿<Window x:Class="cv12WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cv12WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <Button Content="Compute" Grid.Row="2" Grid.Column="4" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Click="Button_Click" FontSize="25"/>
+        <Label Content="1. number" Grid.Row="0" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" FontSize="25" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <Label Content="2. number" Grid.Row="2" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" FontSize="25" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <Label Content="Operation" Grid.Row="4" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" FontSize="25" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <TextBox x:Name="number1" Grid.Row="0" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" FontSize="25"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></TextBox>
+        <TextBox x:Name="number2" Grid.Row="2" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" FontSize="25"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></TextBox>
+        <ComboBox x:Name="operation" Grid.Row="4" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" FontSize="25"  HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+            <ComboBoxItem Content="+"></ComboBoxItem>
+            <ComboBoxItem Content="-"></ComboBoxItem>
+            <ComboBoxItem Content="*"></ComboBoxItem>
+            <ComboBoxItem Content="/"></ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="result" Grid.Column="5" Grid.Row="2" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" TextWrapping="Wrap"  IsReadOnly="True" FontSize="40" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderThickness="0"/>
+        
+    </Grid>
+</Window>
