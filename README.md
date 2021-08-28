@@ -83,3 +83,21 @@ BPC-MDS obsahuje cvičení pro multimediální služby ve Spring framworku. Dopo
 | DÚ 3		  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/du3) 	 |
 | DÚ 4		  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/du4) 	 |
 | Zápočet	  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-MDS/Jedla/projekt) |
+
+
+## [BPC-OOP - Objektově orientované programování](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP)
+
+BPC-OOP obsahuje cvičení pro objektově orientované programování v jazyce C#. Doporučené IDE je Visual Studio, pomocí kterého lze jednotlivá cvičení spustit. 
+
+| Cvičení     | [jedla](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla)       | 
+| :---------: | :--------------------------------------------------------------------------: |
+| Cvičení 2   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv02)	 |
+| Cvičení 3   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv03)	 |
+| Cvičení 4   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv04)	 |
+| Cvičení 5	  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv05)	 |
+| Cvičení 6   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv06) 	 |
+| Cvičení 7   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv07)	 |
+| Cvičení 8   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv08)	 |
+| Cvičení 9   | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv09)	 |
+| Cvičení 10  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv10)	 |
+| Cvičení 12  | [zde](https://github.com/jedla97/School-IBE/tree/main/BPC-OOP/Jedla/cv12)	 |
