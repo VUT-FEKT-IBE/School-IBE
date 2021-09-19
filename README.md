@@ -1,17 +1,19 @@
 # School-IBE
 
-This repository include programing exercises from various subjects.
+Repozitář obsahuje programovací cvičení, se kterými se dá setkat v průběhu bakalářského studia (nejsou zde všechny).
 
 [BPC-PC1T - Počítače a programování 1](#bpc-pc1t---počítače-a-programování-1)\
 [BPC-PC2T - Počítače a programování 2](#bpc-pc2t---počítače-a-programování-2)\
 [BPC-TIN - Teoretická informatika](#bpc-tin---teoretická-informatika)\
-[BPC-MDS - Multimediální služby](#BPC-MDS---Multimediální-služby)
+[BPC-MDS - Multimediální služby](#BPC-MDS---Multimediální-služby)\
+[BPC-OOP - Objektově orientované programování](#BPC-OOP---Objektově-orientované-programování)
 
-Now include only three subjects but when I'll have freetime I add more. Feel free to add your code as well. When submiting code keep it simple and use structure as [here](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN).
+Pokud chcete přispět svým vypracovaným cvičením tak budeme rádi. Jestliže přispějete tak držte struktůru podobně jako [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T).
 
 ## [BPC-PC1T - Počítače a programování 1](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T)
 
-BPC-PC1T include two sets of code one is from [@Oswinska](https://github.com/Oswinska) in [Oswinska directory](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska) and second one is [@jedla97](https://github.com/jedla97) in [jedla directory](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla).
+BPC-PC1T obsahuje kód pro cvičení od [@Oswinska](https://github.com/Oswinska) ve [složce Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska) z roku 2020/2021 a od [@jedla97](https://github.com/jedla97) ve [složce jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla) z roku 2018/2019. Cvičení se za tu dobu nezměnili.
+
 
 | Cvičení     | [jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/jedla)         | [Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC1T/Oswinska) |
 | :---------: | :--------------------------------------------------------------------------: | :------------------------------------: |
@@ -28,9 +30,10 @@ BPC-PC1T include two sets of code one is from [@Oswinska](https://github.com/Osw
 
 ## [BPC-PC2T - Počítače a programování 2](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec)
 
-In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceni3) are 2 subdirectories one includes own custom exceptions and second includes some code which I´m not sure how exactly working or which purpose was used. [Cvičení databáze](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/src/com/vutbr/feec/cviceniDatabaze) was added last year (2019/20) and it was a template where was a task to add a prepared statement to communicate with the database. This not include database itself.
+BPC-PC2T obsahuje kód pro cvičení od [@Oswinska](https://github.com/Oswinska) ve [složce Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska) z roku 2020/2021 a od [@jedla97](https://github.com/jedla97) ve [složce jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla) z roku 2018/2019. Pro obě složky by mělo stačit zkopírovat podsložku do src složky v java projektu. V roce 2019/2020 bylo přidáno cvičení na databáze ve složce [cviceniDatabaze](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceniDatabaze). Je to template, do kterého se přidavají prepared statements pro komunikaci s databází. Databázi si musíte vytvořit sami.
 
-| Cvičení          | [jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla) | [Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/) |
+
+| Cvičení          | [jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla) | [Oswinska](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska) |
 | :--------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
 | Cvičení 1        | -                                                                               | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika01/src) |
 | Cvičení 2        | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni2) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika02/src/Cvika2) |
@@ -41,7 +44,7 @@ In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3]
 | Cvičení 5        | -                                                                              | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika05/src/cvika05) |
 | Cvičení 6        | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni6) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika06/src/Cvika06) |
 | Cvičení 7        | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni7) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika07/src/Cvika07) |
-| Cvičení 8        | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni8) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika8) |
+| Cvičení 8        | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni8) | - |
 | Cvičení 9        | -                                                                              | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika09/src/Cvika09) |
 | Cvičení 10       | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni10) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika10/src) |
 | Cvičení 11       | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Jedla/cviceni11) | [zde](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-PC2T/Oswinska/Cvika11/src/Cvika11) |
@@ -50,7 +53,8 @@ In BPC-PC2T is needed to copy "cvičeníX" to your src directory. In [cviceni 3]
 
 ## [BPC-TIN - Teoretická informatika](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN)
 
- BPC-TIN include two sets of code one is from [@Czechbol](https://github.com/Czechbol) in [Czechbol directory](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Czechbol) and second one is [@jedla97](https://github.com/jedla97) in [Jedla directory](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec). In [directory cvičení 9](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko9) are 2 algorithms but mandatory was only Dijkstra algorithm and I have done A* only for fun but for the type of graf which was use is bad. 
+BPC-TIN obsahuje kód pro cvičení od [@Czechbol](https://github.com/Czechbol) ve [složce Czechbol](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Czechbol) a od [@jedla97](https://github.com/jedla97) ve [složce jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec). Obě dvě cvičení pochází z roku 2019/2020. V [podsložce cviko9](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/cviko9) ve [složce Jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec/) jsou 2 algoritmy z kterých bylo nutné dělat jen Dijkstra algoritmus.
+ 
 
 | Cvičení     | [Czechbol](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Czechbol)| [jedla](https://github.com/VUT-FEKT-IBE/School-IBE/tree/main/BPC-TIN/Jedla/src/cz/vutbr/feec) |
 | :-----------: | :-------------: | :-------------: |
